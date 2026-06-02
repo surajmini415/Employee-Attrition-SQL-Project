@@ -31,8 +31,9 @@ IBM HR Analytics Employee Attrition Dataset
 
 ## Project Structure
 
-Employee-Attrition-SQL-Project/
-\uc0\u9500 \u9472 \u9472  Employee_Attrition_Analysis.sql
-\uc0\u9500 \u9472 \u9472  WA_Fn-UseC_-HR-Employee-Attrition.csv
-\uc0\u9500 \u9472 \u9472  README.md
-\uc0\u9492 \u9472 \u9472  screenshots}
+## Project Structure
+
+- Employee_Attrition_Analysis.sql
+- WA_Fn-UseC_-HR-Employee-Attrition.csv
+- README.md
+- screenshots/
